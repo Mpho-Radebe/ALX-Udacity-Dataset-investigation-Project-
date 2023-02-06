@@ -7,7 +7,7 @@
 ## Conclusions
 
 # Introduction
-In this project, I will be analyzing data from The Movie Database (TMDb). This data set contains 10,866 rows and the following column attributes:
+.This is my first project in the Data Analytics Nanodegree I am enrolled for at Udacity. In this project, I will be analyzing data from The Movie Database (TMDb). This data set contains 10,866 rows and the following column attributes:
 
 * movie_id - A unique identifier for each movie.
 * imdb_id - A unique identifier for each movie on IMDB.
